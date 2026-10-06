@@ -1,0 +1,5 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	peak_rss	peak_vmem	rchar	wchar
+2	0c/7272ce	14470647	CUTADAPT (test-steers-falco)	COMPLETED	0	2025-10-22 14:30:50.038	33.9s	2.2s	40.4%	23.9 MB	35.2 MB	23.1 MB	17.5 MB
+1	81/a3f0ba	14470651	FALCO (test-steers-falco)	COMPLETED	0	2025-10-22 14:33:09.737	34.3s	870ms	80.9%	13.7 MB	21 MB	3.1 MB	97.4 KB
+3	53/55c947	14470654	HIFIASM (test-steers-falco)	COMPLETED	0	2025-10-22 14:34:32.045	1m 2s	9.4s	174.7%	16.1 GB	16.6 GB	6.5 MB	3.8 MB
+4	0a/56d838	14470704	CUSTOM_DUMPSOFTWAREVERSIONS (1)	COMPLETED	0	2025-10-22 14:41:22.993	31.1s	457ms	21.5%	564 KB	9.6 MB	883.3 KB	2 KB

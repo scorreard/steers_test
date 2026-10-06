@@ -1,0 +1,12 @@
+CUSTOM_DUMPSOFTWAREVERSIONS:
+  python: 3.14.0
+  yaml: 6.0.3
+CUTADAPT:
+  cutadapt: '5.0'
+FALCO:
+  falco: 1.2.1
+HIFIASM:
+  hifiasm: 0.25.0-r726
+Workflow:
+  Nextflow: 23.10.0
+  nf-core/steersfalco: 1.0dev

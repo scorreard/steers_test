@@ -1,0 +1,10 @@
+PASS	Basic Statistics	test_hifi.fastq.gz
+PASS	Per base sequence quality	test_hifi.fastq.gz
+PASS	Per sequence quality scores	test_hifi.fastq.gz
+FAIL	Per base sequence content	test_hifi.fastq.gz
+FAIL	Per sequence GC content	test_hifi.fastq.gz
+PASS	Per base N content	test_hifi.fastq.gz
+WARN	Sequence Length Distribution	test_hifi.fastq.gz
+PASS	Sequence Duplication Levels	test_hifi.fastq.gz
+WARN	Overrepresented sequences	test_hifi.fastq.gz
+PASS	Adapter Content	test_hifi.fastq.gz

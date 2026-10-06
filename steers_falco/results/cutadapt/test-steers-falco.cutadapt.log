@@ -1,0 +1,11 @@
+This is cutadapt 5.0 with Python 3.12.8
+Command line parameters: -Z --cores 6 -o test-steers-falco.trim.fastq.gz test_hifi.fastq.gz
+Processing single-end reads on 6 cores ...
+
+=== Summary ===
+
+Total reads processed:                     204
+Reads written (passing filters):           204 (100.0%)
+
+Total basepairs processed:     3,763,116 bp
+Total written (filtered):      3,763,116 bp (100.0%)

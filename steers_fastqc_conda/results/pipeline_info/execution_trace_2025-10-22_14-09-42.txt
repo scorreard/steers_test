@@ -1,0 +1,5 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	peak_rss	peak_vmem	rchar	wchar
+2	26/d420ca	14470636	FASTQC (test-steers-fastqc)	COMPLETED	0	2025-10-22 14:13:42.128	34.4s	8.2s	83.0%	295.8 MB	6 GB	15 MB	2.5 MB
+1	fe/c1faf4	14470638	CUTADAPT (test-steers-fastqc)	COMPLETED	0	2025-10-22 14:17:04.195	32.4s	1.8s	35.6%	37.4 MB	173.6 MB	23.1 MB	17.5 MB
+3	d7/98f276	14470639	HIFIASM (test-steers-fastqc)	COMPLETED	0	2025-10-22 14:18:54.803	31.8s	13.5s	149.4%	16.1 GB	16.6 GB	6.5 MB	3.8 MB
+4	40/17c597	14470642	CUSTOM_DUMPSOFTWAREVERSIONS (1)	COMPLETED	0	2025-10-22 14:25:19.861	31.8s	536ms	28.9%	5.9 MB	14.3 MB	887.9 KB	2 KB
