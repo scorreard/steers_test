@@ -18,3 +18,14 @@ Both workflows perform the same quality-control analysis, but with different too
 This repository contains the [Nextflow](https://www.nextflow.io/) code used to run the two workflows on the [GenOuest](https://www.genouest.org/) cluster, as well as the results.
 
 The same workflows were also run in [Galaxy](https://galaxyproject.org/) for comparison.
+
+## How to run
+
+1. Install [Nextflow](https://www.nextflow.io/).
+2. Clone this repository.
+3. In each workflow folder :
+- Update the `nextflow.config` file to point to a directory that exists on your cluster.
+  
+- Run the workflow:
+
+    nextflow run . -with-report -with-trace -with-timeline -resume
